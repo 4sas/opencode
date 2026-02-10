@@ -1,0 +1,57 @@
+{
+  "recommendations": [
+    "MS-CEINTL.vscode-language-pack-ja",
+    "ionutvmi.path-autocomplete", // Path Autocomplete. パス入力の補完機能
+    "streetsidesoftware.code-spell-checker", // Code Spell Checker. スペルミスチェッカー
+    "leodevbro.blockman", // Blockman - Highlight Nested Code Blocks. ネストされたブロックを強調表示
+    "eamodio.gitlens", // GitLens — Git supercharged. Gitの変更履歴をBlameなどで表示
+    "NicolasVuillamy.vscode-groovy-lint", // Groovy Lint, Format and Fix
+    "ms-python.black-formatter", // Python formatter
+    "bmewburn.vscode-intelephense-cdevlient", // php formatter
+    "redhat.vscode-yaml", // yaml formatter
+    "ms-dotnettools.csharp", // C#
+    "ms-dotnettools.csdevkit", // C# Dev Kit
+    "k--kato.docomment", // C# XML Doc
+    "p1gd0g.unity-debug-301", // Debugger for Unity
+    "kleber-swf.unity-code-snippets", // Unity Code Snippets
+    "jmrog.vscode-nuget-package-manager",
+    "yoshi389111.visible-whitespace",
+    "42Crunch.vscode-openapi", // swagger editor
+    "visualstudiotoolsforunity.vstuc",
+    "timonwong.shellcheck",
+    "foxundermoon.shell-format",
+    "esbenp.prettier-vscode", // javascript formatter
+    "DavidAnson.vscode-markdownlint",
+    "glenn2223.live-sass",
+    "vscjava.vscode-java-pack",
+    "vmware.vscode-boot-dev-pack", // java spring boot
+    "DotJoshJohnson.xml",
+    "mtxr.sqltools",
+    "bierner.markdown-mermaid", // Markdown Preview Mermaid Support
+    "yzhang.markdown-all-in-one", // Markdown TOC
+    "4ops.terraform",
+    "hashicorp.terraform",
+    "SimonSiefke.svg-preview",
+    "bradlc.vscode-tailwindcss",
+    "Dart-Code.flutter",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode-remote.remote-containers",
+    "Google.geminicodeassist",
+    "EXCEEDSYSTEM.vscode-macros",
+    "yzane.markdown-pdf",
+    "onecentlin.laravel-blade",
+    "shufo.vscode-blade-formatter",
+    "openai.chatgpt",
+    "tamasfe.even-better-toml",
+    "janisdd.vscode-edit-csv",
+    "ms-vscode.makefile-tools",
+    "matt-meyers.vscode-dbml",
+    "aflalo.dbml-formatter",
+    "bocovo.dbml-erd-visualizer",
+    "technosophos.vscode-helm",
+    "svelte.svelte-vscode",
+    "ardenivanov.svelte-intellisense",
+    "fivethree.vscode-svelte-snippets",
+    "hediet.vscode-drawio"
+  ]
+}

@@ -1,0 +1,9 @@
+use_default_settings: true
+
+server:
+  secret_key: "pGRJFN$!_4#A[Th&Q9z7z@u2L)k3vXxjv3Yb$eGmC!+Q8VYy8"
+
+search:
+  formats:
+    - html
+    - json
