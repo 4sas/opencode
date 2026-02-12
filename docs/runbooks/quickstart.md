@@ -38,3 +38,25 @@ make dc-up-b
 ```
 
 OpenCode のコマンド `Toggle MCPs` を選択した後に `searxng connected` が表示されれば成功
+
+## Ollama 連携
+
+### OpenCode をインストール
+
+1. [公式サイト](https://ollama.com/download) からインストーラーをダウンロード
+2. ダウンロードしたインストーラーを実行
+
+### Ollama 側のモデルを用意
+
+1. [公式サイト](https://ollama.com/search) で使用するモデルのタグを確認
+2. モデルを取得
+
+```bash
+ollama pull qwen3-coder:30b
+```
+
+### クイックセットアップ
+
+```bash
+ollama launch opencode --config
+```
